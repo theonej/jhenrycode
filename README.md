@@ -9,3 +9,5 @@ Always set up source control first.
 ### Step 1 - Set up the project
 
 ### Step 2 - Get some data
+
+### Step 3 - Generate training data
