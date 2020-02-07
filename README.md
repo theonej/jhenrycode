@@ -17,6 +17,7 @@
     https://keras.io/
 
 ### Step 4 - Create the model
+    https://brohrer.github.io/how_convolutional_neural_networks_work.html
     https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
     https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
     https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
