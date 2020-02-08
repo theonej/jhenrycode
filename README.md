@@ -23,3 +23,5 @@
     https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0
     https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/
     https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
+
+
